@@ -1,0 +1,76 @@
+/* ─── app/globals.css ────────────────────────────────────────────────────────
+   Base reset + CSS custom properties (design tokens).
+   All component-specific styles live in app/page.module.css
+   ──────────────────────────────────────────────────────────────────────────── */
+
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300;12..96,400;12..96,500;12..96,700;12..96,800&family=Instrument+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap');
+
+/* ── CSS Custom Properties (design tokens) ── */
+:root {
+  --color-bg:         #080d16;
+  --color-surface:    rgba(255, 255, 255, 0.03);
+  --color-border:     rgba(255, 255, 255, 0.07);
+  --color-text:       #dce8f0;
+  --color-text-muted: rgba(220, 232, 240, 0.5);
+  --color-text-faint: rgba(220, 232, 240, 0.28);
+  --color-teal:       #14b8a6;
+  --color-teal-dark:  #0d9488;
+  --color-teal-glow:  rgba(20, 184, 166, 0.12);
+  --color-amber:      #fbbf24;
+  --color-amber-glow: rgba(251, 191, 36, 0.07);
+  --color-green:      #34d399;
+
+  --font-display: 'Bricolage Grotesque', sans-serif;
+  --font-body:    'Instrument Sans', sans-serif;
+  --font-mono:    ui-monospace, 'Cascadia Code', Menlo, monospace;
+
+  --max-width:  1180px;
+  --header-h:   72px;
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 18px;
+  --radius-xl: 22px;
+
+  --ease-fast:   170ms ease;
+  --ease-normal: 250ms ease;
+}
+
+/* ── Reset ── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  height: 100%;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--color-bg);
+  color: var(--color-text);
+  overflow-x: hidden;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100%;
+}
+
+/* Prevents sticky header from overlapping anchor targets */
+section[id] {
+  scroll-margin-top: var(--header-h);
+}
+
+/* ── Scroll reveal (global — JS adds .vis via classList.add) ── */
+.reveal {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 520ms ease, transform 520ms ease;
+}
+.reveal.vis {
+  opacity: 1;
+  transform: translateY(0);
+}

@@ -1,0 +1,85 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 2457 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(Oluwatunmise Ayeni) Tj
+T* (Mobile Developer) Tj
+T* () Tj
+T* (Phone: +234 810 178 8909) Tj
+T* (Email: tunmiseayeni13@gmail.com) Tj
+T* (GitHub: https://github.com/TunmiseAyeni) Tj
+T* (LinkedIn: https://www.linkedin.com/in/oluwatunmise-ayeni/) Tj
+T* (Location: Lagos, Nigeria) Tj
+T* () Tj
+T* (PROFESSIONAL SUMMARY) Tj
+T* (Results-driven Mobile Developer with expertise in building and deploying cross-platform) Tj
+T* (applications using Flutter, Firebase, and Node.js. Proven ability to manage the full project) Tj
+T* (lifecycle, from backend architecture and UI design to final deployment. A First-Class Honors) Tj
+T* (graduate seeking to leverage technical and leadership skills to deliver high-quality mobile) Tj
+T* (solutions.) Tj
+T* () Tj
+T* (EDUCATION) Tj
+T* (Babcock University; BSc Computer Science) Tj
+T* (Jan 2022 - Jul 2025 | Ogun, Nigeria) Tj
+T* (Graduated With: First Class Honors) Tj
+T* (Relevant Coursework: Data Structures, OOP \(Python\), Web Development, Machine Learning) Tj
+T* () Tj
+T* (EXPERIENCE) Tj
+T* (Freelance Mobile Developer | Remote) Tj
+T* (Oct 2022 - Present | Lagos, Nigeria) Tj
+T* (- Developed and delivered custom Flutter apps, boosting user satisfaction by 20%.) Tj
+T* (- Engineered REST APIs and managed Firebase Firestore, Auth, and Cloud Functions.) Tj
+T* (- Translated wireframes into pixel-perfect mobile-responsive UIs.) Tj
+T* () Tj
+T* (Software Development Intern | Vendy Ltd.) Tj
+T* (Jan 2024 - Jul 2024 | Lagos, Nigeria) Tj
+T* (- Built barcode scanner and biometric-auth mobile app with Flutter/Firebase.) Tj
+T* (- Integrated Firestore for secure real-time data synchronization.) Tj
+T* (- Contributed to features and peer code reviews in agile sprints.) Tj
+T* () Tj
+T* (Co-Founder / CEO | R.E.T Innovate) Tj
+T* (Dec 2018 - Apr 2019 | Orlando, Florida) Tj
+T* (- Co-led anti-vaping mobile app for US teens \(prototype + presentation\).) Tj
+T* (- Finalist \(2nd Place\), Conrad Challenge, Orlando, Florida.) Tj
+T* () Tj
+T* (PROJECTS) Tj
+T* (Online Bookstore System) Tj
+T* (- Built scalable e-commerce app using Flutter, Node.js, MongoDB.) Tj
+T* (- Implemented JWT-based REST API for secure auth and stock management.) Tj
+T* () Tj
+T* (TECHNICAL SKILLS) Tj
+T* (Languages: Dart, JavaScript, Python, Kotlin, C++, SQL) Tj
+T* (Frameworks/Tools: Flutter, Firebase, Node.js, Express, MongoDB, Git/GitHub) Tj
+T* (Concepts: REST APIs, JWT, Firestore, Riverpod, UI/UX Principles, Agile Workflow) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002750 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2820
+%%EOF

@@ -1,0 +1,45 @@
+Oluwatunmise Ayeni
+Mobile Developer
+
+Phone: +234 810 178 8909
+Email: tunmiseayeni13@gmail.com
+GitHub: https://github.com/TunmiseAyeni
+LinkedIn: https://www.linkedin.com/in/oluwatunmise-ayeni/
+Location: Lagos, Nigeria
+
+PROFESSIONAL SUMMARY
+Results-driven Mobile Developer with expertise in building and deploying cross-platform applications using Flutter, Firebase, and Node.js. Proven ability to manage the full project lifecycle, from backend architecture and UI design to final deployment. A First-Class Honors graduate seeking to leverage technical and leadership skills to deliver high-quality mobile solutions.
+
+EDUCATION
+Babcock University; BSc Computer Science
+Jan 2022 - Jul 2025 | Ogun, Nigeria
+Graduated With: First Class Honors
+Relevant Coursework: Data Structures, Object Oriented Programming (Python), Web Development, Machine Learning
+
+EXPERIENCE
+Freelance Mobile Developer | Remote
+Oct 2022 - Present | Lagos, Nigeria
+- Developed and delivered custom Flutter applications, leading to a 20% boost in user satisfaction.
+- Engineered and integrated REST APIs and managed data persistence with Firebase Firestore, Authentication, and Cloud Functions.
+- Translated client wireframes into pixel-perfect, mobile-responsive UIs.
+
+Software Development Intern | Vendy Ltd.
+Jan 2024 - Jul 2024 | Lagos, Nigeria
+- Developed a barcode scanner and biometric-authentication mobile application using Flutter and Firebase.
+- Integrated Firestore for secure, real-time data synchronization.
+- Actively contributed to feature development and peer code reviews within an agile sprint framework.
+
+Co-Founder / CEO | R.E.T Innovate
+Dec 2018 - Apr 2019 | Orlando, Florida
+- Co-led the creation of an anti-vaping mobile application for US teens; directed app prototyping and presentation.
+- Achievement: Finalist (2nd Place) at the Conrad Challenge, Orlando, Florida.
+
+PROJECTS
+Online Bookstore System
+- Architected a scalable e-commerce application using Flutter, Node.js, and MongoDB.
+- Implemented a JWT-based RESTful API for secure user authentication and real-time stock management.
+
+TECHNICAL SKILLS
+Languages: Dart, JavaScript, Python, Kotlin, C++, SQL
+Frameworks & Tools: Flutter, Firebase (Firestore, Auth, Cloud Functions), Node.js, Express, MongoDB, Git/GitHub
+Concepts & Methodologies: REST APIs, JWT Authentication, Firestore, Riverpod, UI/UX Principles, Agile Workflow
