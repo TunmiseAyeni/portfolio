@@ -2,7 +2,7 @@
 // Place this file in your /app directory.
 // Next.js will auto-generate /robots.txt from it.
 
-const BASE_URL = "https://tunmise.dev"; // 🔁 Replace with your actual deployed domain
+const BASE_URL = "https://tunmise-ayeni-portfolio.vercel.app"; // 🔁 update if you add a custom domain later
 
 export default function robots() {
   return {

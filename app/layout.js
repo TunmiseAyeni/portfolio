@@ -13,7 +13,7 @@ const instrumentSans = Instrument_Sans({
   display: "swap",
 });
 
-const BASE_URL = "https://tunmise.dev"; // 🔁 Replace with your actual deployed domain
+const BASE_URL = "https://tunmise-ayeni-portfolio.vercel.app"; // 🔁 update if you add a custom domain later
 
 export const metadata = {
   metadataBase: new URL(BASE_URL),

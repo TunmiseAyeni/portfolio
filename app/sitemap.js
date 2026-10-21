@@ -2,7 +2,7 @@
 // Place this file in your /app directory.
 // Next.js App Router will auto-generate /sitemap.xml from it.
 
-const BASE_URL = "https://tunmise.dev"; // 🔁 Replace with your actual deployed domain
+const BASE_URL = "https://tunmise-ayeni-portfolio.vercel.app"; 
 
 export default function sitemap() {
   return [
