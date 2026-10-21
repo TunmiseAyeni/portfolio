@@ -23,7 +23,7 @@ export const metadata = {
     template: "%s | Oluwatunmise Ayeni",
   },
   description:
-    "Backend Developer based in Nigeria. I build REST APIs, authentication, databases and services with Node.js, TypeScript and PostgreSQL — and ship full-stack web and mobile when a product needs it end-to-end. Available for full-time and freelance opportunities.",
+    "Backend Developer based in Nigeria. I build REST APIs, authentication, databases and services with Node.js, TypeScript and PostgreSQL, and ship full-stack web and mobile when a product needs to go the whole way. Available for full-time and freelance opportunities.",
 
   keywords: [
     "Backend developer",
@@ -49,13 +49,14 @@ export const metadata = {
     siteName: "Oluwatunmise Ayeni",
     title: "Oluwatunmise Ayeni | Backend Developer",
     description:
-      "Backend Developer building REST APIs and services with Node.js, TypeScript and PostgreSQL — plus full-stack web and mobile.",
+      "Backend Developer building REST APIs and services with Node.js, TypeScript and PostgreSQL, plus full-stack web and mobile.",
     images: [
       {
-        url: "/og-image.png", // 🔁 Create a 1200×630px image and place it in /public/og-image.png
+        url: "/og-image.jpg", // 1200×630 image at /public/og-image.jpg
         width: 1200,
         height: 630,
-        alt: "Oluwatunmise Ayeni — Backend Developer",
+        type: "image/jpeg",
+        alt: "Oluwatunmise Ayeni, Backend Developer",
       },
     ],
   },
@@ -66,7 +67,7 @@ export const metadata = {
     title: "Oluwatunmise Ayeni | Backend Developer",
     description:
       "Backend Developer building REST APIs and services with Node.js, TypeScript and PostgreSQL.",
-    images: ["/og-image.png"],
+    images: ["/og-image.jpg"],
     creator: "@TunmiseAyeni", // 🔁 Replace with your actual Twitter/X handle if you have one
   },
 
